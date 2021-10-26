@@ -1,4 +1,4 @@
-# ExoCord-Discord-Account-Generator
+# ExoCord-Discord-Account-Generator SCAMMER
 
 Account generator known as ExoCord (Scammer)
 

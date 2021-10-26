@@ -17,7 +17,7 @@ INSTRUCTIONS:
 
 Change the discord webhook to yours so the bots join ur server instead of the scammer
 
-if you get any errors just look at them see whats missing and install it using pythong
+if you get any errors just look at them see whats missing and install it using python
 
 you also need node js to use the token verfiers 
 
